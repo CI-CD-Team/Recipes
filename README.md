@@ -1,3 +1,6 @@
+Editing the code to see changes in Sonarcloud
+
+
 # Recipe App on React
 ### This app is a part of a "Full stack web developer" program in the Business College of Helsinki
 It's made on React and uses fake json-server and [restcountries API](https://restcountries.com)
