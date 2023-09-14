@@ -4,6 +4,14 @@ It's made on React and uses fake json-server and [restcountries API](https://res
 
 https://github.com/Pavel-Kliukin/Recipes_on_react/assets/98514950/0e391374-af25-4883-9f4d-7b4409de27d8
 
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.lapots.breed.judge:judge-rule-engine)
+
+
+
+
+
+
+
 
 ### Recipes page with search bar
 ![Screenshot 2023-06-05 at 12 21 36](https://github.com/Pavel-Kliukin/Recipes_on_react/assets/98514950/844d82f1-a6a9-4b5f-9df9-4eae4d283af1)
